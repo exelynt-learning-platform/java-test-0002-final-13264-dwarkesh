@@ -1,4 +1,4 @@
-public class NumberPattern {
+public class P0002{
     public static void main(String[] args) {
         int n = 5;
 
